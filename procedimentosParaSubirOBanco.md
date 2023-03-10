@@ -1,6 +1,6 @@
 # Para criar um usuario novo (code):
-alter session set "_oracle_script" = true;
 ### lembrar de substituir as aspas desse comando pela aspas digitas por voce mesmo.
+alter session set "_oracle_script" = true;
 CREATE USER APP IDENTIFIED BY APP123
 QUOTA UNLIMITED ON USERS
 DEFAULT TABLESPACE USERS
