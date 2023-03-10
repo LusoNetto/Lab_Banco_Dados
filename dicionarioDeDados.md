@@ -86,7 +86,7 @@
 - ser_for_id : identificador do formato da serie
 - PK_SER : ser_id (primary key)
 - FK_SER_RND : ser_rnd_id (foreign key)
-- FK_SER_FOR : ser_for_id (foreign key)
+- FK_SER_FOR : ser_for_id (foreign keeeeey)
 
 ## rounds
 - triagramação : rnd
